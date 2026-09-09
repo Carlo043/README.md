@@ -1,0 +1,41 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=160&section=header&text=Carlo%20Baclao&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=45" />
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=I%20love%20enov8tive" alt="Typing SVG" />
+</div>
+
+---
+
+## 🔧 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react" height="50" alt="react" /> <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs" /> <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs" /> <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel" /> <img src="https://skillicons.dev/icons?i=graphql" height="50" alt="graphql" /> <img src="https://skillicons.dev/icons?i=ts" height="50" alt="ts" /> <img src="https://skillicons.dev/icons?i=js" height="50" alt="js" /> <img src="https://skillicons.dev/icons?i=py" height="50" alt="py" /> <img src="https://skillicons.dev/icons?i=go" height="50" alt="go" /> <img src="https://skillicons.dev/icons?i=java" height="50" alt="java" /> <img src="https://skillicons.dev/icons?i=php" height="50" alt="php" /> <img src="https://skillicons.dev/icons?i=cs" height="50" alt="cs" /> <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp" /> <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgres" /> <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql" /> <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb" /> <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite" /> <img src="https://skillicons.dev/icons?i=supabase" height="50" alt="supabase" /> <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase" /> <img src="https://skillicons.dev/icons?i=prisma" height="50" alt="prisma" /> <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker" /> <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws" /> <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel" /> <img src="https://skillicons.dev/icons?i=netlify" height="50" alt="netlify" /> <img src="https://skillicons.dev/icons?i=githubactions" height="50" alt="githubactions" /> <img src="https://skillicons.dev/icons?i=cloudflare" height="50" alt="cloudflare" /> <img src="https://skillicons.dev/icons?i=react" height="50" alt="react" /> <img src="https://skillicons.dev/icons?i=git" height="50" alt="git" /> <img src="https://skillicons.dev/icons?i=github" height="50" alt="github" /> <img src="https://skillicons.dev/icons?i=gitlab" height="50" alt="gitlab" /> <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode" /> <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite" />
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Leap0920&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+<table><tr>
+<td><img src="https://github-stats-extended.vercel.app/api?username=Leap0920&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats" /></td>
+<td><img src="https://github-readme-streak-stats-azure.vercel.app/?user=Leap0920&theme=dark&hide_border=true" height="150" alt="Contribution Streak" /></td>
+</tr></table>
+</div>
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Leap0920&layout=compact&langs_count=6&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+---
+*Generated with [DevCard](https://devcard.app)*
